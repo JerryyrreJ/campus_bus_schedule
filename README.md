@@ -6,13 +6,13 @@ A real-time shuttle bus schedule tracker for inter-campus transportation. This m
 
 ## Features
 
-- 🚌 Real-time departure tracking
-- ⏱️ Live countdown to next bus
-- 📅 Weekday and weekend schedule support
-- 🔄 Automatic schedule updates
-- 📱 Responsive design for all devices
-- 🎯 Location-based departures
-- ⚡ Fast and lightweight
+- Real-time departure tracking
+- Live countdown to next bus
+- Weekday and weekend schedule support
+- Automatic schedule updates
+- Responsive design for all devices
+- Location-based departures
+- Fast and lightweight
 
 ## Installation
 
